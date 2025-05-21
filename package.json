@@ -12,8 +12,8 @@
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "next": "15.3.2",
-        "react-aria": "3.0.0-nightly-b7f8ed1a9-250516",
-        "react-aria-components": "3.0.0-nightly-b7f8ed1a9-250516"
+        "react-aria": "3.0.0-nightly-77b3442e4-250521",
+        "react-aria-components": "3.0.0-nightly-77b3442e4-250521"
     },
     "devDependencies": {
         "typescript": "^5",
